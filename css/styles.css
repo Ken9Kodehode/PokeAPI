@@ -4,6 +4,7 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     background-image: url(../img/bg-img.png);
+    margin-top: 10rem;
 }
 
 h1 {
