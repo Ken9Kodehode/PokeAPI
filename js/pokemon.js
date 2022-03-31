@@ -20,8 +20,8 @@ const getPokemon =(id) => {
             }
           })
         }
-    //Create div element
-
+    
+        //Create div element
 const body = document.getElementsByTagName("body")[0];
 
 const containerDiv = document.createElement("div");
