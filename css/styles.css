@@ -70,3 +70,28 @@ h5 {
     padding: 1rem;
     margin-top: 5rem;
   }
+
+#Page-Title {
+    font-size: 58px;
+    color: #9cd6f8;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0px 0px 0 rgb(-10,114,238),
+                 1px 1px 0 rgb(-27,97,221),
+                 2px 2px 0 rgb(-44,80,204),
+                 3px 3px 0 rgb(-61,63,187),
+                 4px 4px 0 rgb(-78,46,170),
+                 5px 5px 0 rgb(-95,29,153),
+                 6px 6px 0 rgb(-112,12,136),
+                 7px 7px 0 rgb(-129,-5,119),
+                 8px 8px 0 rgb(-146,-22,102),
+                 9px 9px 0 rgb(-163,-39,85),
+                 10px 10px 0 rgb(-180,-56,68),
+                 11px 11px 0 rgb(-197,-73,51),
+                 12px 12px 0 rgb(-214,-90,34),
+                 13px 13px 0 rgb(-231,-107,17),
+                 14px 14px 0 rgb(-248,-124,0),
+                 15px 15px  0 rgb(-265,-141,0),
+                 16px 16px 15px rgba(0,0,0,0.6),
+                 16px 16px 1px rgba(0,0,0,0.5),
+                 0px 0px 15px rgba(0,0,0,.2);
+ }
