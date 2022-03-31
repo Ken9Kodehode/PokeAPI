@@ -52,4 +52,4 @@ containerDiv.innerHTML = `
     })
   
   }
-  getPokemon(1)
+  getPokemon()
