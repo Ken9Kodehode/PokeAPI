@@ -1,2 +1,2 @@
 # PokeAPI
-Create a Pokemon Card with JavaScript Fetch
+Create a Pokemon Card with JavaScript
