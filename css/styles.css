@@ -52,7 +52,7 @@ h5 {
 }
 
 .abilities-names, .types-names{
-    color: black;
+    color: rgb(0, 0, 0);
     font-display: block;
     font-weight: 900;
     font-size: 20px;
