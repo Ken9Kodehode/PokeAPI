@@ -27,7 +27,7 @@ h5 {
     font-weight: 700;
 }
 
-.pokemons-card{
+.pokemons-card {
     border: 4px solid white;
     border-radius: 1rem;
     width: 250px;
@@ -39,19 +39,20 @@ h5 {
     color: #000000;
 }
 
-.abilities, .types{
+.abilities, .types {
     border: 2px solid white;
     display: flex;
     background-color: #9cd6f8;
     justify-content: center;
     text-transform: capitalize;
 }
-.types{
+
+.types {
     border-bottom-right-radius: 10%;
     border-bottom-left-radius: 10%;
 }
 
-.abilities-names, .types-names{
+.abilities-names, .types-names {
     color: rgb(0, 0, 0);
     font-display: block;
     font-weight: 900;
