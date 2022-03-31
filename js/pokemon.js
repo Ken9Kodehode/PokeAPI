@@ -1,7 +1,7 @@
 //Fetch task in JavaScript
 //PokeAPI
 const getPokemon =(id) => {
-    fetch(`https://pokeapi.co/api/v2/pokemon/${1}/`)
+    fetch(`https://pokeapi.co/api/v2/pokemon/bulbasaur/`)
     .then(response => response.json())
     .then((pokeCharacter)=> {
       const pokemon = {
