@@ -12,8 +12,7 @@ h1 {
     font-size: 40px;
     color: whitesmoke;
     text-align: center;
-    margin-top: 10rem;
-    
+    margin-top: 10rem;  
 }
 
 h5 {
@@ -69,9 +68,10 @@ h5 {
     justify-content: center;
     padding: 1rem;
     margin-top: 5rem;
-  }
+}
 
   /*  H1 3D Text  */
+
 .Page-Title {
     font-size: 58px;
     color: #9cd6f8;
@@ -95,5 +95,5 @@ h5 {
                  16px 16px 15px rgba(0,0,0,0.6),
                  16px 16px 1px rgba(0,0,0,0.5),
                  0px 0px 15px rgba(0,0,0,.2);
- }
+}
 

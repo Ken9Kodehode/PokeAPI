@@ -1,5 +1,5 @@
 //Fetch task in JavaScript
-//PokeAPI
+//PokeAPI.co - Pokèmon card
 const getPokemon =(id) => {
     fetch(`https://pokeapi.co/api/v2/pokemon/bulbasaur/`)
     .then(response => response.json())
