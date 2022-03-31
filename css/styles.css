@@ -4,7 +4,6 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     background-image: url(../img/bg-img.png);
-    margin-top: 10rem;
 }
 
 h1 {
@@ -13,6 +12,7 @@ h1 {
     font-size: 40px;
     color: whitesmoke;
     text-align: center;
+    margin-top: 10rem;
     
 }
 
@@ -68,4 +68,5 @@ h5 {
     flex-wrap: wrap;
     justify-content: center;
     padding: 1rem;
+    margin-top: 5rem;
   }
